@@ -1,0 +1,18 @@
+{
+  "name": "hanxu-public-account-series-visual",
+  "version": "0.1.0",
+  "repository": "hanxu-public-account-series-visual",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "ad82559b28da03d4728e771facf3c72701989eb00372c1572d8b6a29646b5eb7",
+    "SKILL.md": "085a22cf5cb84612f58810e654fb318bea3abc470f00364f25f7f2510c925ce4",
+    "VALIDATION.md": "4384bddfeb710e179aa8a8f800f4f54722b0b0d5b66e8ca4c24a849667b0d8f8",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "2f96e495cdf09c0f545911f3e25ed37512fd52cfbf0f38c3fe7b14970f7933c5",
+    "assets/series-template/render-series-visuals.mjs": "6bc32ff68071fba65b44a1b063253217b79d3088213ba348dbfe89cc0fed7653",
+    "examples/rendered-cover.png": "3a665b728399d0db497159acbf775567eb2f846aecc2c41e705d436357e3a56e",
+    "package.json": "b56da6b5066c952893d9ad6fb70723ce74805193358ad513c6a0d482d67624f9",
+    "references/发布准备执行标准.md": "726458fd0cd0711765baa5349e68e24a37e69de877af03c0fa2cf1327b7dc95b",
+    "scripts/render_public_account_series_visual.py": "fe734e31313a0a8e73103b169800e577d6a686eb20f9b6a543e373b48aa6ae5d"
+  }
+}
